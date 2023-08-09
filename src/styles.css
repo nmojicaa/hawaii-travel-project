@@ -16,9 +16,10 @@ body {
   text-align: center;
 }
 
-.img-respnsive {
+.img-responsive {
   max-width: 100%;
   display: block;
+  height: auto;
 }
 
 .grid-2-columns {
@@ -43,7 +44,7 @@ body {
 }
 
 .card-footer {
-  padding: 0 30px 30px;
+  padding: 0 20px 20px;
 }
 
 .btn {
