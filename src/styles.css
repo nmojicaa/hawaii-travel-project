@@ -6,7 +6,6 @@ body {
 blockquote {
   margin: 25px;
   display: block;
-  margin-top: 5px;
 }
 
 .container {
@@ -61,6 +60,10 @@ blockquote {
 .embed {
   width: 100%;
   aspect-ratio: 1 / 1;
+}
+
+.instagram-embeds {
+  margin: 30px;
 }
 
 .btn {
